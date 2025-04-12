@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [View solutiion here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-3bs6_pc8hg)
+- Solution URL: [View solution here](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-3bs6_pc8hg)
 - Live Site URL: [View live site here](https://jesnetwd.github.io/Frontend-Mentor-QR-code-component/)
 
 ## My process
