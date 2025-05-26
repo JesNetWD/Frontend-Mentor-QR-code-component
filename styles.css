@@ -33,14 +33,14 @@ body {
 }
 
 main {
-  width: 320px;
+  max-width: 320px;
   padding: 16px 16px 20px;
   border-radius: 20px;
   background-color: var(--white);
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
   border-radius: 10px;
 }
 
@@ -76,4 +76,10 @@ footer {
 
 .attribution a {
   color: #3e52a3;
+}
+
+@media only screen and (max-width: 375px) {
+  main {
+    margin: 0 1.5rem;
+  }
 }
