@@ -80,6 +80,10 @@ footer {
   color: #3e52a3;
 }
 
+.attribution a:focus {
+  outline: 1px solid var(--Slate900);
+}
+
 @media only screen and (max-width: 375px) {
   main {
     margin: 0 1rem;
